@@ -37,6 +37,10 @@ Você pode baixar o layout do projeto no formato `.sketch` através [desse link]
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
 
+## Agradecimentos
+
+Um super obrigado à <a href="https://github.com/rocketseat-education">Rocketseat Education</a> por disponibilizar mais esse conteúdo de qualidade aos seus estudantes!!!
+
 ---
 
 Feito com ♥ by Filipe Ariel :wave: 
